@@ -22,6 +22,7 @@ function fetchData($url){
     $videoType = [];
 
     // Function Calling
-    $result = fetchData("https://www.instagram.com/tasawuk/?__a=1");
+    $result = fetchData("https://p27651688.fl.5y5.uk/tasawuk/?__a=1");
+    //$result = fetchData("https://www.instagram.com/tasawuk/?__a=1");
     var_dump($result);
 ?>
