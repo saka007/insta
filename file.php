@@ -23,5 +23,5 @@ function fetchData($url){
 
     // Function Calling
     $result = fetchData("https://www.instagram.com/tasawuk/?__a=1");
-    print_r($result);
+    var_dump($result);
 ?>
